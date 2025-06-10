@@ -32,5 +32,3 @@ I build exceptional digital experiences, backed by **5+ years** in startup envir
 ### Stats
 
 ![GitHub Stats](https://github-readme-stats-seven-zeta-52.vercel.app/api?username=Lisztos&hide=stars&show_icons=true&theme=react&hide_border=true&hide_rank=true&width=495)
-
-![Top Languages](https://github-readme-stats-seven-zeta-52.vercel.app/api/top-langs/?username=Lisztos&layout=donut&theme=react&langs_count=6&width=495)
