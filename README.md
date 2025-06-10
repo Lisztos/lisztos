@@ -2,9 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Ruby+on+Rails+Specialist;Building+Digital+Experiences)
 
- **Berlin, Germany** 🇩🇪
+ 📍 **Berlin, Germany** 🇩🇪
 
-I build digital experiences with **5+ years** of experience in startup environments. Passionate about crafting scalable solutions and leading engineering teams to deliver high-quality products under tight deadlines.
+I build exceptional digital experiences, backed by **5+ years** in startup environments. I'm passionate about crafting scalable solutions and leading engineering teams to deliver high-quality products under tight deadlines.
 
 💬 **Open to freelance and consulting opportunities** - Let's connect!
 
@@ -29,7 +29,8 @@ I build digital experiences with **5+ years** of experience in startup environme
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-
 ### Stats
 
-![GitHub Stats](https://github-readme-stats-seven-zeta-52.vercel.app/api?username=Lisztos&hide=stars&show_icons=true&theme=react&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-seven-zeta-52.vercel.app/api?username=Lisztos&hide=stars&show_icons=true&theme=react&hide_border=true&hide_rank=true&width=495)
+
+![Top Languages](https://github-readme-stats-seven-zeta-52.vercel.app/api/top-langs/?username=Lisztos&layout=donut&theme=react&langs_count=6&width=495)
