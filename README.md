@@ -29,6 +29,6 @@ I build exceptional digital experiences, backed by **5+ years** in startup envir
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 
-### Stats
+<!-- ### Stats
 
-![GitHub Stats](https://github-readme-stats-seven-zeta-52.vercel.app/api?username=Lisztos&hide=stars&show_icons=true&theme=react&hide_border=true&hide_rank=true&width=495)
+![GitHub Stats](https://github-readme-stats-seven-zeta-52.vercel.app/api?username=Lisztos&hide=stars&show_icons=true&theme=react&hide_border=true&hide_rank=true&width=495) -->
