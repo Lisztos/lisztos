@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;Ruby+on+Rails+Specialist;Building+Digital+Experiences)
 
- 📍 **Berlin, Germany** 🇩🇪
+ 📍 **Mexico City** 🇲🇽
 
 I build exceptional digital experiences, backed by **5+ years** in startup environments. I'm passionate about crafting scalable solutions and leading engineering teams to deliver high-quality products under tight deadlines.
 
